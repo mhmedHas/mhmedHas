@@ -40,7 +40,7 @@ class MohammadHassan {
   final role     = "Flutter Developer";
   final degree   = "CS & AI — Class of 2025";
   final location = "Menoufia, Egypt 🇪🇬";
-  final years    = 2;
+  final years    = 1;
 
   final skills = [
     "Flutter", "Dart",
@@ -70,7 +70,7 @@ class MohammadHassan {
 
 | 📲 Apps on Play Store | 📥 Total Downloads | ⭐ Avg Rating | 🧩 Problems Solved |
 |:---:|:---:|:---:|:---:|
-| **5+** | **10K+** | **4.6 / 5** | **100+** |
+| **1** | **10K+** | **4.9 / 5** | **100+** |
 
 </div>
 
@@ -175,18 +175,7 @@ class MohammadHassan {
 
 ---
 
-## 📈 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmedHas&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B00&currStreakLabel=58A6FF" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmedHas&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=6" width="40%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmedHas&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B00&area=true&hide_border=true" width="98%"/>
-</div>
-
----
 
 ## 🎯 Goals for 2025
 
